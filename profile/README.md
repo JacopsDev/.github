@@ -8,10 +8,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## Jacops Development Github
+# **Jacops Development Github**
 
-Create issues, requests, feature requests, etc. in the relevant repository.
 
-View the current timeline in Project - Dashboard
+## Introduction
+Create issues, requests, feature requests, etc. in the relevant [repository](https://github.com/orgs/JacopsDev/repositories).
+The repositories are all tools both, QGIS and stand-alone for the different FttH projects
 
-Start or join a discussion in th Discussion tab
+View the current timeline/planning of issues, features in the [Dashboard](https://github.com/orgs/JacopsDev/projects/4)
+
+Start or join a discussion [here](https://github.com/orgs/JacopsDev/discussions)

@@ -1,0 +1,23 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+
+    <pyqgis_plugin name="Repository Plugin 69" version="4.2.0">
+        <description><This is the description></description>
+        <version>4.2.0</version>
+        <qgis_minimum_version>3.16</qgis_minimum_version>
+        <homepage>jacops.be</homepage>
+        <file_name>jvid_matcher-main.zip</file_name>
+        <icon>resources/icons/icon.png</icon>
+        <author_name>Batman</author_name>
+        <download_url>https://github.com/JacopsDev/jvid_matcher/releases/download/repo/jvid_matcher-main.zip</download_url>
+        <uploaded_by>Gustry</uploaded_by>
+        <create_date>2024-01-11</create_date>
+        <update_date>2024-01-12</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker>https://github.com/3liz/lizmap-plugin/issues</tracker>
+        <repository>https://github.com/3liz/lizmap-plugin</repository>
+        <tags>online,server,web,webgis,webservice,webmapping,mobile,publication,wms,wfs,wps,internet,cloud</tags>
+    </pyqgis_plugin>
+ 
+</plugins>

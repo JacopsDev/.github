@@ -30,4 +30,12 @@
 		<file_name>jvid_matcher-main.zip</file_name>
 		<download_url>https://github.com/JacopsDev/jvid_matcher/releases/download/test/jvid_matcher-main.zip</download_url>
 	</pyqgis_plugin>
+	</pyqgis_plugin>
+
+	<pyqgis_plugin name="JVID Matcher 3" version="1.0.0">
+	<qgis_minimum_version>3.16</qgis_minimum_version>
+	<file_name>jvid_matcher-main.zip</file_name>
+	<download_url>https://github.com/JacopsDev/jvid_matcher/zipball/master/</download_url>
+	</pyqgis_plugin>
+	https://github.com/JacopsDev/jvid_matcher/zipball/master/
 </plugins>

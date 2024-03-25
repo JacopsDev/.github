@@ -4,4 +4,10 @@
       <file_name>new.zip</file_name>
       <download_url>https://github.com/JacopsDev/qgis_synergie_export/archive/refs/tags/new.zip</download_url>
   </pyqgis_plugin>
+
+    <pyqgis_plugin name="JVID Matcher" version="1.0.0">
+    <qgis_minimum_version>3.28</qgis_minimum_version>
+      <file_name>jvid_matcher-main.zip</file_name>
+      <download_url>https://github.com/JacopsDev/jvid_matcher/releases/download/test/jvid_matcher-main.zip</download_url>
+  </pyqgis_plugin>
 </plugins>

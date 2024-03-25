@@ -6,7 +6,7 @@
 		<qgis_minimum_version>3.28</qgis_minimum_version>
 		<homepage>https://github.com/JacopsDev</homepage>
 		<file_name>qgis_synergie_export.zip</file_name>
-		<icon>icon.png</icon>
+		<icon>/icon.png</icon>
 		<author_name>JacopsDEV</author_name>
 		<download_url>https://github.com/JacopsDev/qgis_synergie_export/releases/download/new/qgis_synergie_export.zip</download_url>
 		<uploaded_by>JacopsDEV</uploaded_by>

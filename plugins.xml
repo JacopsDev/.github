@@ -1,0 +1,7 @@
+<plugins>
+  <pyqgis_plugin name="Synergie Exporter" version="1.0.0">
+    <qgis_minimum_version>3.28</qgis_minimum_version>
+      <file_name>qgis_synergie_export.zip</file_name>
+      <download_url>https://github.com/JacopsDev/qgis_synergie_export/releases/download/new/qgis_synergie_export.zip</download_url>
+  </pyqgis_plugin>
+</plugins>

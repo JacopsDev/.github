@@ -9,6 +9,6 @@ View the current timeline/planning of issues, features in the [Dashboard](https:
 Start or join a discussion [here](https://github.com/orgs/JacopsDev/discussions)
 
 ## 2. QGIS Repository
-Coming soon!?
+Check the [loop](https://loop.cloud.microsoft/) (Software - QGIS Custom Plugins)! 
 
 
